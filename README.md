@@ -41,10 +41,10 @@ El código incluye operaciones simples, condicionales, bucles, manejo de errores
 
 🎯 Próximos pasos
 
-  ➕ Agregar nuevos ejercicios (listas, funciones, diccionarios)
+  - ➕ Agregar nuevos ejercicios (listas, funciones, diccionarios)
 
-  📁 Dividir el código en módulos
+  - 📁 Dividir el código en módulos
 
-  🖥️ Crear un menú más avanzado con submenús y funciones
+  - 🖥️ Crear un menú más avanzado con submenús y funciones
 
 
