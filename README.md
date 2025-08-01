@@ -32,6 +32,8 @@ El código incluye operaciones simples, condicionales, bucles, manejo de errores
 3. Ejecutá el archivo en la terminal:
    python ejercicios_python_joaquin.py
 
+---
+
 📜 Estructura del proyecto
   📂 proyecto-python/
    ├── ejercicios_python_joaquin.py   # Archivo principal con todos los ejercicios
