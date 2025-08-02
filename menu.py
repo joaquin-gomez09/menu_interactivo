@@ -1,7 +1,7 @@
 while True:
     print("1. Contador de vocales \n")
     print("2. Verificar si empieza con a\n")
-    print("3. Verificar contraseña\n")
+    print("3. 🔐 Verificar contraseña\n")
     print("4. Salir\n")
 
     try:
