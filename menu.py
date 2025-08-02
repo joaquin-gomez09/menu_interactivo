@@ -37,10 +37,10 @@ while True:
         for intento in range(3):
             contraseña = input("Ingresar contraseña...")
             if contraseña == "python123":
-                print("Acceso concedido\n")
+                print("🔓 Acceso concedido\n")
                 break
             else:
-                print("contraseña incorrecta\n")
+                print("🔒 contraseña incorrecta\n")
         else:
             print("Demasiados intentos\n")
 
